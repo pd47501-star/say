@@ -1,0 +1,6 @@
+{
+  "name": "Evaluación Docente Básica",
+  "description": "Una plataforma integral para evaluar las habilidades socioemocionales, metodologías pedagógicas, y ética de docentes antes de su contratación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
